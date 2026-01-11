@@ -138,12 +138,15 @@ In this [Google Drive](https://drive.google.com/drive/folders/14NVnbrUUfII3tRdI8
 - Two folders of the same location code with their projection constructed, 1 with SVG and 1 without. If you want more pre-constructed projections of different locations then contact me. Put these in `location/`.
 - One preprocessed `.json.gz` output file ready for visualization (need the `119NH` folder in `location/` from the same Drive).
 
+This project was inspired by the paper [Rezaei et al. 2023](https://www.sciencedirect.com/science/article/pii/S0957417423007558)
+
 ## Roadmap
 
 ### For TrafficLab
 
-In **TrafficLab 3D v1.1**, I aim for:
+In **TrafficLab 3D v1.1**, I aim to:
 
+- Rewrite the code base, its quite messy right now, sorry for that.
 - More research needed for smoother, physically-constrained kinematics and tracking.
 - Refine Calibration Tab. Maybe some options for automatic calibration.
 
