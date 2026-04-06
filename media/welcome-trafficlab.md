@@ -29,7 +29,7 @@ Complementary resources:
 - Youtube Demo at [TrafficLab 3D v1.0 Demo](https://www.youtube.com/watch?v=AYUXXnzenvk)
 - Youtube Guide at [TrafficLab 3D Guide](https://www.youtube.com/watch?v=PeL2v1YEdYA)
 - Check out full academic report at [Google Drive](https://drive.google.com/file/d/1CmP-sYHWvxN3JxYA_rR2S4tW9YdQcVjg/view?usp=sharing)
-- Read blog post on TrafficLab at [yuk068.github.io](https://yuk068.github.io/2026/02/20/traffilclab-3d-future-roadmap)
+- Read blog post on TrafficLab at [yuk068.github.io](https://yuk068.github.io/2026/02/20/traffilclab-3d-overview)
 
 ---
 
