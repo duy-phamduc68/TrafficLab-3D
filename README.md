@@ -145,7 +145,14 @@ This project was inspired by the paper [Rezaei et al. 2023](https://www.scienced
 
 If you do want to configure your own model and adjust kinematics, you will have to inspect the `inference_config.yaml` and `prior_dimensions.json` files.
 
-**Note:** this method only works on a singular flat planar environment.
+## Open Problems
+
+- This method only works on a singular flat planar environment.
+- The data is very "physics-ignoring", it mostly take output from detector and tracker as-is, which can be noisy:
+  - Occulsion will make an object behind it disappear (eg. a large bus, truck covering a sedan, pedestrian).
+  - The vehicle 3D boxes does not follow any vehicle model, ensuring they adhere to something like a kinematic bicycle model will eliminate a lot of problems where vehicle boxes just rotates or teleport randomly.
+  - A user can't just appear or disappear in the middle of the scene, some entry/exit annotations could help with this.
+- Crafting the initial G-Projection and SVG Map is still a very tedious task.
 
 ## Changelog
 
