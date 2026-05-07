@@ -4,6 +4,8 @@ TrafficLab puts accessibility at the forefront, with just access to mp4 CCTV foo
 
 ![Demo](./media/demo.gif)
 
+[![oosmetrics](https://api.oosmetrics.com/api/v1/badge/achievement/4fcd4788-a378-4d60-970f-3362ff74f714.svg)](https://oosmetrics.com/repo/duy-phamduc68/TrafficLab-3D)
+
 Release: v1.1
 
 Developed by Yuk
